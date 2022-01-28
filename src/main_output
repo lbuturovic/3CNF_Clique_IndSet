@@ -1,0 +1,234 @@
+C:\Users\lejla\.jdks\openjdk-17.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=51519:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\lejla\Lab56\out\production\Lab56 nasp.lab56.Main
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+1
+Unesite 3CNF formulu. Varijable imenovati redom (1, 2, 3, ... 24) odustanite pritiskom na 'q':
+-2,1,-4
+4,5,3
+1,2,-5
+2,3,-4
+q
+
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+3
+Moguce rješenje je 0, 0, 1, 0, 0
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+6
+Unesite vrijednosti 5literala:
+0
+0
+0
+0
+0
+Verifikacija neuspješna
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+6
+Unesite vrijednosti 5literala:
+0
+0
+0
+0
+1
+Verifikacija neuspješna
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+6
+Unesite vrijednosti 5literala:
+0
+0
+1
+0
+0
+Verifikacija uspješna
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+2
+Unesite broj čvorova grafa (<=15):
+5
+Unesite grane čvorova imenovanih kao 1,2,... Unosite kao broj čvora - enter - broj čvora. Za kraj pritisnite 'q'.
+Unesite 1. granu:
+1
+2
+Unesite 2. granu:
+1
+3
+Unesite 3. granu:
+2
+3
+Unesite 4. granu:
+3
+4
+Unesite 5. granu:
+3
+5
+Unesite 6. granu:
+4
+5
+Unesite 7. granu:
+q
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+5
+Unesite K:
+4
+Rješenje nije nađeno!
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+7
+Unesite broj nezavisnih čvorova:
+3
+Unesite čvorove:
+1
+4
+2
+Verifikacija neuspješna
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+8
+Unesite broj čvorova klike:
+3
+Unesite čvorove:
+2
+1
+3
+Verifikacija uspješna
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+1
+Unesite 3CNF formulu. Varijable imenovati redom (1, 2, 3, ... 24) odustanite pritiskom na 'q':
+1,2,3
+-1,-2,-3
+q
+
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+3
+Moguce rješenje je 0, 0, 1
+Odaberite jednu od ponuđenih opcija:
+1) Unos formule (Opcija omogućuje unos trenutne logičke formule)
+2) Unos grafa (Opcija omogućuje unos trenutnog grafa)
+3) Je li formula ispunjiva (Opcija omogućuje ispitivanje da li je formula ispunjiva)
+4) Postoji li k-nezavisnih čvorova (Opcija ispituje da li u grafu postoji skup sa barem k nezavisnih
+čvorova)
+5) Postoji li k-klika (Opcija ispituje da li u grafu postoji k-klika)
+6) Verifikacija formule (Opcija omogućuje verifikaciju nekog pridruživanja vrijednosti logičkim
+varijablama )
+7) Verifikacija skupa nezavisnih čvorova (Opcija omogućuje verifikaciju skupa nezavisnih čvorova)
+8) Verifikacija k-klike (Opcija omogućuje verifikaciju k-klike)
+9) Izlaz
+9
+
+Process finished with exit code 0
